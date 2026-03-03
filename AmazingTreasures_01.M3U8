@@ -1,7 +1,6 @@
 #EXTM3U
-#EXTINF:-1,𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+#EXTINF:-1, 𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
 https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png
-#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
 #EXTINF:-1 group-title="Bangla" tvg-id="akashaat.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png",AKASH 8
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="amarbangla.bd" tvg-logo="https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png",Amar Bangla
@@ -98,6 +97,8 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 https://cdn-1.pishow.tv/live/1456/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="montvmusic.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Mon_Music_HD_2023.png",MU | Mon TV Music
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="Bangla" tvg-id="sangeetbangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",MU | SANGEET BANGLA
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/541.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="ZBMusic.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg",MU | ZB Music
@@ -498,6 +499,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://amg01550-indiatv-indiatv-speed-mi-xiaomi-zgmaw.amagi.tv/playlist/amg01550-indiatv-indiatv-speed-mi-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="India" tvg-id="ndtvenglish" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lcj8idHNsaTiTITY2vWQD6gaxZ6ITkpQPaLVskaDMyiml9=s160-c-k-c0x00ffffff-no-rj",NEWS | NDTV English
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="India" tvg-id="ndtvindia" tvg-logo="https://logodix.com/logo/2131933.jpg",NEWS | NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="India" tvg-id="NewsIndia24X7.in" tvg-logo="https://a.jsrdn.com/hls/23215/news-india-24x7/logo_20250611_205743_70.png",NEWS | News India 24X7
@@ -998,6 +1001,8 @@ https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amg00353-lionsgatestudio-arewethereyet-samsunguk-6h2ju.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-id="BBCAmerica.us@East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/BBC_America_2015_%28Square%29.svg",BBC America
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="International" tvg-id="Bon Voyage" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2400004WL_20250820T005408SQUARE.png",Bon Voyage
 https://d1si3n1st4nkgb.cloudfront.net/10502/89001004/hls/master.m3u8?ads.xumo_channelId=89001004&ads.xumo_streamId=89001004&ads.caid=Indigenius&ads.csid=samsungtvplus_in_bonvoyage_ssai&ads.sfid=&ads.afid=Indigenius&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=IN&ads.appVersion=&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1101&ads.xumo_contentName=Indigenius&ads.xumo_providerId=1101&ads.xumo_providerName=Indigenius&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=bonvoyage_in&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 group-title="International" tvg-id="Cook & Bake" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000105Q_20250205T004558SQUARE.png",Cook & Bake
@@ -1498,6 +1503,8 @@ https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Cha
 https://dl.dropboxusercontent.com/scl/fi/tcwufcwlesl7weenc2s2t/MovieLinkBD.Amazon.Obhijaan.2017.720p.mkv?rlkey=teexwav1olvy172f87mnf2j35&dl=1.mkv
 #EXTINF:-1 group-title="Movies - English" tvg-id="28_Years_Later" tvg-logo="https://image.tmdb.org/t/p/w500/mIg1qCkVxnAlM2TK3RUF0tdEXlE.jpg",28 Years Later (2025) 🆕
 http://ftp.ctgfun.com/English/28.Years.Later.2025.1080p.WEBRip.x264%20%5BDDN%5D/28.Years.Later.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="Movies - English" tvg-id="A_Big_Bold_Beautiful_Journey" tvg-logo="https://image.tmdb.org/t/p/original/tfZ9X2tojM4FyUxaU3t6nCpUJIt.jpg",A Big Bold Beautiful Journey (2025) 🆕
 http://ftp.ctgfun.com/English/A.Big.Bold.Beautiful.Journey.2025.1080p.WEBRip.x264%20%5BDDN%5D/A.Big.Bold.Beautiful.Journey.2025.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="Movies - English" tvg-id="A_Minecraft_Movie" tvg-logo="https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",A Minecraft Movie (2025) 🆕
@@ -1998,6 +2005,8 @@ http://ftp.ctgfun.com/English/The.Six.Triple.Eight.2024.1080p.WEBRip.x264%20%5BD
 http://ftp.ctgfun.com/English/The.Thinking.Game.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Thinking.Game.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="Movies - English" tvg-id="The_Unholy_Trinity" tvg-logo="https://image.tmdb.org/t/p/w500/waU3o5qRPNA9bIC59DIsDppll11.jpg",The Unholy Trinity (2024)
 http://ftp.ctgfun.com/English/The.Unholy.Trinity.2024.1080p.WEBRip.x264%20%5BDDN%5D/The.Unholy.Trinity.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="Movies - English" tvg-id="Time_Cut" tvg-logo="https://image.tmdb.org/t/p/w500/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",Time Cut (2024)
 http://ftp.ctgfun.com/English/Time.Cut.2024.1080p.WEBRip.x264%20%5BDDN%5D/Time.Cut.2024.1080p.WEBRip.x264%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="Movies - English" tvg-id="Transformers_One" tvg-logo="https://image.tmdb.org/t/p/w500/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",Transformers One (2024)
@@ -2498,6 +2507,8 @@ http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Ramam%20Raghavam%20%282025%
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Raunak%20%282025%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Raunak%20%282025%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="Movies - Hindi Dubbed" tvg-id="Rekhachithram" tvg-logo="https://image.tmdb.org/t/p/w500/ulIAyiSVQZL1Ov6K2Tjf6wPlzFi.jpg",Rekhachithram (2025)
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Rekhachithram%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Rekhachithram%20%282025%29%20Hindi%20Malayalam%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="Movies - Hindi Dubbed" tvg-id="Retro" tvg-logo="https://image.tmdb.org/t/p/w500/nOm3NktK6w1Nmwcx1BIbT0O5tAw.jpg",Retro (2025)
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Retro%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Retro%20%282025%29%20Hindi%20Tamil%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="Movies - Hindi Dubbed" tvg-id="Robinhood" tvg-logo="https://image.tmdb.org/t/p/w500/nCJywWZFgm76W568pH1eSWYpFdC.jpg",Robinhood (2025)
@@ -3124,6 +3135,8 @@ http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Driving%20Licence%20%282019
 http://ftp.ctgfun.com/Indian/South%20Indian%20Movies/Jatt%20And%20Juliet%202%20%282013%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D/Jatt%20And%20Juliet%202%20%282013%29%20Hindi%20Punjabi%20720p%20WEBRip%20x264%20ESub%20%5BDDN%5D.mp4
 #EXTINF:-1 group-title="Education" tvg-id="WM" tvg-logo="https://www.watchmojo.com/2016/img/wm_logo3_2018.webp",Watch Mojo (EU)
 https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 
 Powered by 𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+
