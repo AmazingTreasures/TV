@@ -33,8 +33,6 @@ http://208.86.19.13:81/509.stream/index.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="MAASRANGA.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",MAASRANGA HD
 http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="MagicBanglaTV" tvg-logo="https://magicbanglatv.com/images/logo-170679715465bba8620786e.png",Magic Bangla TV
-https://jolshabd.com/live/mbanglatv/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="Metv" tvg-logo="https://yt3.googleusercontent.com/OHsKWwrPCUUomluu0R4GqjQNXuD3vOHDK3dLq2Qczmu9ZI5X7ljltXoHM8c4-vElz4DdD3qflQ=s72-c-k-c0x00ffffff-no-rj",Me TV
 http://stvlive.net:8080/metv/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="BanglaMovies.Tplay" tvg-logo="https://i.postimg.cc/RCnCv14W/T-Play.png",MOV | Bangla Movies (Tplay)
@@ -43,22 +41,12 @@ https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="TaraBanglacinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjV-Uny70t-T2TsCyzzt-8mnRfkRy0VLdl6g&s",MOV | Tara Bangla Cinema
 http://103.145.48.150:90/laosat24/taratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="ToffeeMovies" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/b60Ss5UBrjBfS2_RJPb8/posters/278fd2ab-3320-440c-9e8d-d702cea3dfa8.png",MOV | Toffee Movies
-https://www.xfireflix.fun/test/live.php?id=9f573df7cbe5&e=.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="ZBCinema.in" tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg",MOV | ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="zeebanglacinema.in" tvg-logo="http://openboxv8s.com/india/zee_bangla_cinema.jpg",MOV | ZEE BANGLA CINEMA
-https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="MovieBanglaTV" tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",Movie Bangla TV
 http://stvlive.net:8080/moviebangla/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-id="BanglaSongs" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",MU | Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="BengaliBeats" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png",MU | Bengali Beats
-https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="dhoommusic.bd" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Dhoom_Music_Bangla_logo_%282014%29.png",MU | DHOOM MUSIC
-https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-id="montvmusic.in" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/7e/Mon_Music_HD_2023.png",MU | Mon TV Music
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
 https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 #EXTINF:-1 group-title="Bangla" tvg-id="sangeetbangla.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",MU | SANGEET BANGLA
@@ -3101,6 +3089,7 @@ https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures_01.M3U8
 
 Powered by 𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+
 
 
 
