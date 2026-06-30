@@ -5,6 +5,8 @@ https://github.com/AmazingTreasures/TV/raw/AT/AmazingTreasures.mp4
 #EXTM3U
 #EXTINF:-1 tvg-name="Somoy" group-title="Live TV",Somoy
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="BTV" group-title="Live TV",BTV
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TVP Sports" group-title="Live TV",TVP Sports
 https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
 #EXTINF:-1 tvg-name="Bein Sports 1 720p" group-title="Live TV",Bein Sports 1 720p
