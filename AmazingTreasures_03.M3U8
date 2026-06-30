@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://github.com/AmazingTreasures/TV/raw/AT/AmazingTreasures.mp4
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Somoy" group-title="Live TV",Somoy
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-name="TVP Sports" group-title="Live TV",TVP Sports
+https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8
+#EXTINF:-1 tvg-name="Bein Sports 1 720p" group-title="Live TV",Bein Sports 1 720p
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-name="WIN Sports" group-title="Live TV",WIN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-name="Telemundo" group-title="Live TV",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-name="D Sports" group-title="Live TV",D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-name="Tudn Sports" group-title="Live TV",Tudn Sports
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+https://github.com/AmazingTreasures/TV/raw/AT/AmazingTreasures.mp4
