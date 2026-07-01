@@ -4,6 +4,15 @@ https://github.com/AmazingTreasures/TV/raw/AT/AmazingTreasures.mp4
 #EXTINF:300,Zee Bangla HD
 #EXTVLCOPT:network-caching=1000
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:24,Zee Bangla
+#EXTVLCOPT:network-caching=1000
+http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
+#EXTINF:0,Star Jalsha
+#EXTVLCOPT:network-caching=1000
+http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
+
+
+
 #EXTINF:-1 tvg-name="BTV National" group-title="Live TV",BTV National
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="Live TV",Somoy TV
