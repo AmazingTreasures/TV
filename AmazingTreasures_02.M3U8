@@ -1,25 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
+#EXTINF:-1 tvg-name="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png" group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
 https://github.com/AmazingTreasures/TV/raw/AT/AmazingTreasures.mp4
-#EXTINF:300,Zee Bangla HD
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-name="Zee Bangla HD" group-title="Live TV",Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:24,Zee Bangla
-#EXTVLCOPT:network-caching=1000
-http://180.94.28.28:8097//ZEE-BANGLA/index.fmp4.m3u8?token=f0e935f7ded22ca5ec138a8a1bdd0783c143f2f0-72abea8effadde408717c21c70ba02fa-1776169971-1776166371&remote=no_check_ip
-#EXTINF:0,Zee Bangla
-#EXTVLCOPT:network-caching=1000
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
-#EXTINF:0,ZEE BANGLA
-#EXTVLCOPT:network-caching=1000
-http://103.159.180.34:5001/live/625.m3u8
-
-#EXTINF:0,Star Jalsha
-#EXTVLCOPT:network-caching=1000
-http://180.94.28.28:8097//STAR-JALSHA/index.fmp4.m3u8?token=eeaada9525f94e1ad69a2ecab3ce4e18e32e2966-ab0e7f5d5e47ac31007b7cd3f64b1811-1776169971-1776166371&remote=no_check_ip
-
-
-
 #EXTINF:-1 tvg-name="BTV National" group-title="Live TV",BTV National
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="Somoy TV" group-title="Live TV",Somoy TV
@@ -48,8 +31,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 tvg-name="Channel 9 HD" group-title="Live TV",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 tvg-name="SRK TV" group-title="Live TV",SRK TV
-https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel I HD" group-title="Live TV",Channel I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-name="Cineedge HD" group-title="Live TV",Cineedge HD
@@ -74,18 +55,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel Europe" group-title="Live TV",Channel Europe
 https://stream.channeleuropetvboxlondon.co.uk/live/channeleurope/chunklist_w572284654.m3u8
-#EXTINF:-1 tvg-name="CBN TV USA" group-title="Live TV",CBN TV USA
-https://live.cbntvusa.net/hls/cbntv/index.m3u8
 #EXTINF:-1 tvg-name="Deepto TV" group-title="Live TV",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="Deshi TV" group-title="Live TV",Deshi TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="Ekhon TV" group-title="Live TV",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Gazi TV HD" group-title="Live TV",Gazi TV HD
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Green TV" group-title="Live TV",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="JonmoBhumi TV" group-title="Live TV",JonmoBhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Jago News 24" group-title="Live TV",Jago News 24
@@ -100,8 +75,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="Enterr 10 Bangla" group-title="Live TV",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-name="ZB Cartun TV" group-title="Live TV",ZB Cartun TV
-https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-name="Deepto TV" group-title="Live TV",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla" group-title="Live TV",Colors Bangla
@@ -110,40 +83,14 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-name="Saudi Quran" group-title="Live TV",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-#EXTINF:-1 tvg-name="A SPORTS HD" group-title="Live TV",A SPORTS HD
-https://tvsen6.aynaott.com/asports/index.m3u8
 #EXTINF:-1 tvg-name="Euro Sports" group-title="Live TV",Euro Sports
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-name="FIFA World Cup" group-title="Live TV",FIFA World Cup
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="T SPORTS" group-title="Live TV",T SPORTS
-https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="PTV SPORTS HD" group-title="Live TV",PTV SPORTS HD
-https://tvsen5.aynaott.com/PtvSports/index.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 1" group-title="Live TV",STAR SPORTS 1
-https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="WILLOW SPORTS" group-title="Live TV",WILLOW SPORTS
-https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-name="beIN sports Xtra HD" group-title="Live TV",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-name="beIN sports Xtra" group-title="Live TV",beIN sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-name="Golf Channel" group-title="Live TV",Golf Channel
-https://tvsen6.aynaott.com/golfchannel/index.m3u8
-#EXTINF:-1 tvg-name="ESPN" group-title="Live TV",ESPN
-https://tvsen5.aynaott.com/espn/index.m3u8
-#EXTINF:-1 tvg-name="TSN 1" group-title="Live TV",TSN 1
-https://tvsen7.aynaott.com/tsn1/index.m3u8
-#EXTINF:-1 tvg-name="TSN 2" group-title="Live TV",TSN 2
-https://tvsen7.aynaott.com/tsn2/index.m3u8
-#EXTINF:-1 tvg-name="TSN 3" group-title="Live TV",TSN 3
-https://tvsen7.aynaott.com/tsn3/index.m3u8
-#EXTINF:-1 tvg-name="Sports Grid" group-title="Live TV",Sports Grid
-https://tvsen6.aynaott.com/SportsGrid/index.m3u8
-#EXTINF:-1 tvg-name="Bloomberg TV" group-title="Live TV",Bloomberg TV
-https://tvsen6.aynaott.com/bloombergtv/index.m3u8
-#EXTINF:-1 tvg-name="NFL Network" group-title="Live TV",NFL Network
-https://tvsen6.aynaott.com/nfl/index.m3u8
 #EXTINF:-1 tvg-name="Screem" group-title="Live TV",Screem
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 #EXTINF:-1 tvg-name="Sports Legends" group-title="Live TV",Sports Legends
@@ -188,10 +135,6 @@ https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 tvg-name="Enter10 Bangla HD" group-title="Live TV",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF:-1 tvg-name="MOV | ZB Cinema" group-title="Live TV",MOV | ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-name="MU | ZB Music" group-title="Live TV",MU | ZB Music
-https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="R Plus Gold" group-title="Live TV",R Plus Gold
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SONY AATH HD" group-title="Live TV",SONY AATH HD
@@ -258,6 +201,3 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
 #EXTINF:-1 tvg-name="Spice FM" group-title="Live TV",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
-#EXTM3U
-#EXTINF:-1 group-title="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-id="𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡" tvg-logo="https://raw.githubusercontent.com/AmazingTreasures/TV/AT/AmazingTreasures.png",𝐀𝐦𝐚𝐳𝐢𝐧𝐠 𝐓𝐫𝐞𝐚𝐬𝐮𝐫𝐞𝐬 ⚡
-https://github.com/AmazingTreasures/TV/raw/AT/AmazingTreasures.mp4
